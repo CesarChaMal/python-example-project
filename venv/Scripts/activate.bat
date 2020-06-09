@@ -1,5 +1,5 @@
 @echo off
-set "VIRTUAL_ENV=C:\IdeaProjects\python-example-project\venv"
+set "VIRTUAL_ENV=E:\IdeaProjects\python-example-project\venv"
 
 if defined _OLD_VIRTUAL_PROMPT (
     set "PROMPT=%_OLD_VIRTUAL_PROMPT%"
